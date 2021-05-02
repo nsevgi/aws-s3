@@ -1,5 +1,6 @@
-package com.nsevgi.s3demo;
+package com.nsevgi.s3demo.controller;
 
+import com.nsevgi.s3demo.utility.AWSS3Service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

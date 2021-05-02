@@ -1,4 +1,4 @@
-package com.nsevgi.s3demo;
+package com.nsevgi.s3demo.utility;
 import com.amazonaws.AmazonServiceException;
 import com.amazonaws.services.s3.AmazonS3;
 import com.amazonaws.services.s3.model.PutObjectRequest;
@@ -15,7 +15,7 @@ import java.io.IOException;
 import java.time.LocalDateTime;
 
 @Service
-public class AmazonImplementation implements AWSS3Service{
+public class AmazonImplementation implements AWSS3Service {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(AmazonImplementation.class);
 

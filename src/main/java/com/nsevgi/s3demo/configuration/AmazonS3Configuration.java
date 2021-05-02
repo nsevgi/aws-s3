@@ -1,4 +1,4 @@
-package com.nsevgi.s3demo;
+package com.nsevgi.s3demo.configuration;
 
 import com.amazonaws.auth.AWSCredentials;
 import com.amazonaws.auth.AWSStaticCredentialsProvider;
