@@ -9,6 +9,7 @@ Amazon S3 is provided by Amazon as storage service.  It can be cloud or on-prem.
 
 **AWS S3 REGISTRATION **
 
+
 After login on AWS, S3 is in Services menu. 
 
 ![image](https://user-images.githubusercontent.com/22428221/116827645-c4d0c500-aba2-11eb-8be9-6467840aa319.png)
