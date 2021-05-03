@@ -1,14 +1,15 @@
+This sample includes how to create bucket, send message and file to s3,list buckets and list of items as simple.
+
 **Pre-Requisite**
 
  * Java and Maven
  * IntelliJ
 
-**WHAT IS AMAZON S3?**
+**AMAZON S3**
 
 Amazon S3 is provided by Amazon as storage service.  It can be cloud or on-prem. 
 
 **AWS S3 REGISTRATION **
-
 
 After login on AWS, S3 is in Services menu. 
 
